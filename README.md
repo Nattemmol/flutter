@@ -23,3 +23,48 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattemmol&show_icons=true&locale=en&layout=compact" alt="nattemmol" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nattemmol&show_icons=true&locale=en" alt="nattemmol" /></p>
+Flutter
+
+Flutter is an open-source UI software development toolkit created by Google. It enables developers to build natively compiled applications for mobile, web, and desktop from a single codebase.
+
+📌 Key Topics
+
+🔹 Dart Language
+
+Object-oriented programming language optimized for UI development.
+
+Supports sound null safety and asynchronous programming.
+
+🎨 Animation
+
+Implicit and explicit animations.
+
+Using AnimationController and Tween for custom animations.
+
+🔄 Bloc State Management
+
+Separation of concerns with Bloc and Cubit.
+
+Event-driven state management for better UI responsiveness.
+
+🌍 HTTP & REST API
+
+Fetching and posting data using the http package.
+
+Handling API responses and errors efficiently.
+
+💾 Local Storage
+
+Using sqflite for SQLite database integration.
+
+SharedPreferences for key-value storage.
+
+🛤️ Routing
+
+Navigator for stack-based navigation.
+
+Named routes and GoRouter for structured navigation.
+
+📱 Cross-Platform Development
+
+Develop apps for Android, iOS, web, and desktop with a single codebase.
