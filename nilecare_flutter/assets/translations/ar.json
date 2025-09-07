@@ -1,0 +1,51 @@
+{
+  "app": {
+    "name": "نايل كير",
+    "welcome": "مرحباً بك في نايل كير"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirm_password": "تأكيد كلمة المرور",
+    "forgot_password": "نسيت كلمة المرور؟",
+    "no_account": "ليس لديك حساب؟",
+    "have_account": "لديك حساب بالفعل؟"
+  },
+  "home": {
+    "appointments": "المواعيد",
+    "doctors": "الأطباء",
+    "messages": "الرسائل",
+    "profile": "الملف الشخصي",
+    "upcoming": "المواعيد القادمة",
+    "past": "المواعيد السابقة"
+  },
+  "profile": {
+    "personal_info": "المعلومات الشخصية",
+    "medical_history": "السجل الطبي",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج"
+  },
+  "appointment": {
+    "book": "حجز موعد",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "doctor": "الطبيب",
+    "reason": "سبب الزيارة",
+    "confirm": "تأكيد الحجز",
+    "cancel": "إلغاء الموعد"
+  },
+  "common": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "success": "تم بنجاح",
+    "retry": "إعادة المحاولة",
+    "next": "التالي",
+    "back": "رجوع"
+  }
+} 
