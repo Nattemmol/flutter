@@ -1,0 +1,121 @@
+{
+  "app": {
+    "name": "ናይል ኬር",
+    "tagline": "ጤናዎ፣ የእኛ ቅድሚያ"
+  },
+  "auth": {
+    "login": "ግባ",
+    "register": "ተመዝገብ",
+    "email": "ኢሜይል",
+    "password": "የይለፍ ቃል",
+    "fullName": "ሙሉ ስም",
+    "confirmPassword": "የይለፍ ቃል አረጋግጥ",
+    "forgotPassword": "የይለፍ ቃል ረሳህ?",
+    "noAccount": "አካውንት የለህም?",
+    "haveAccount": "አካውንት አለህ?",
+    "signUp": "ተመዝገብ",
+    "signIn": "ግባ",
+    "role": {
+      "select": "ሚና ምረጥ",
+      "patient": "ታካሚ",
+      "doctor": "ሐኪም"
+    }
+  },
+  "home": {
+    "welcome": "እንኳን ደህና መጣህ",
+    "findDoctor": "ሐኪም ፈልግ",
+    "appointments": "ቀጠሮዎች",
+    "consultations": "ምክክሮች",
+    "messages": "መልእክቶች",
+    "profile": "መገለጫ",
+    "settings": "ቅንብሮች"
+  },
+  "doctor": {
+    "specialization": "ስፔሻላይዜሽን",
+    "experience": "ልምድ",
+    "rating": "ደረጃ",
+    "availability": "ተገኝነት",
+    "consultationFee": "የምክክር ክፍያ",
+    "bookAppointment": "ቀጠሮ ያዝ",
+    "viewProfile": "መገለጫ ተመልከት",
+    "about": "ስለ",
+    "reviews": "ግምገማዎች",
+    "schedule": "መርሃ ግብር"
+  },
+  "appointment": {
+    "book": "ቀጠሮ ያዝ",
+    "date": "ቀን",
+    "time": "ሰዓት",
+    "type": {
+      "select": "አይነት ምረጥ",
+      "video": "የቪዲዮ ጥሪ",
+      "audio": "የድምጽ ጥሪ",
+      "chat": "መልእክት",
+      "inPerson": "በአካል"
+    },
+    "status": {
+      "pending": "በመጠባበቅ ላይ",
+      "confirmed": "ተረጋግጧል",
+      "cancelled": "ተሰርዟል",
+      "completed": "ተጠናቋል"
+    },
+    "payment": {
+      "title": "ክፍያ",
+      "amount": "መጠን",
+      "method": "የክፍያ ዘዴ",
+      "pay": "ክፈል",
+      "success": "ክፍያው ተሳክቷል",
+      "failed": "ክፍያው አልተሳካም"
+    }
+  },
+  "chat": {
+    "startChat": "ውይይት ጀምር",
+    "typeMessage": "መልእክት ጻፍ...",
+    "send": "ላክ",
+    "attachFile": "ፋይል አያይዝ"
+  },
+  "profile": {
+    "edit": "መገለጫ አስተካክል",
+    "personalInfo": "የግል መረጃ",
+    "medicalHistory": "የህክምና ታሪክ",
+    "prescriptions": "መድሃኒቶች",
+    "reports": "ሪፖርቶች",
+    "save": "ለውጦችን አስቀምጥ"
+  },
+  "settings": {
+    "language": "ቋንቋ",
+    "notifications": "ማሳወቂያዎች",
+    "darkMode": "ጨለማ ሁነታ",
+    "privacy": "ግላዊነት",
+    "help": "እገዛ እና ድጋፍ",
+    "about": "ስለ እኛ",
+    "logout": "ውጣ"
+  },
+  "common": {
+    "loading": "በመጫን ላይ...",
+    "error": "ስህተት",
+    "success": "ተሳክቷል",
+    "retry": "እንደገና ሞክር",
+    "cancel": "ሰርዝ",
+    "save": "አስቀምጥ",
+    "delete": "ሰርዝ",
+    "edit": "አስተካክል",
+    "view": "ተመልከት",
+    "close": "ዝጋ",
+    "confirm": "አረጋግጥ",
+    "back": "ተመለስ",
+    "next": "ቀጣይ",
+    "done": "ተጠናቋል"
+  },
+  "errors": {
+    "general": "አንድ ነገር ተሳስቷል",
+    "network": "የኔትወርክ ስህተት",
+    "unauthorized": "ያልተፈቀደ መዳረሻ",
+    "validation": {
+      "required": "ይህ መስክ አስፈላጊ ነው",
+      "email": "ልክ ያልሆነ ኢሜይል አድራሻ",
+      "password": "የይለፍ ቃል ቢያንስ 8 ቁምፊዎች መሆን አለበት",
+      "passwordMatch": "የይለፍ ቃሎች አይዛመዱም"
+    }
+  }
+} 

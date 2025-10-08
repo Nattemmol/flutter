@@ -1,0 +1,51 @@
+{
+  "app": {
+    "name": "NileCare",
+    "welcome": "Welcome to NileCare"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "forgot_password": "Forgot Password?",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?"
+  },
+  "home": {
+    "appointments": "Appointments",
+    "doctors": "Doctors",
+    "messages": "Messages",
+    "profile": "Profile",
+    "upcoming": "Upcoming",
+    "past": "Past"
+  },
+  "profile": {
+    "personal_info": "Personal Information",
+    "medical_history": "Medical History",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "appointment": {
+    "book": "Book Appointment",
+    "date": "Date",
+    "time": "Time",
+    "doctor": "Doctor",
+    "reason": "Reason for Visit",
+    "confirm": "Confirm Booking",
+    "cancel": "Cancel Appointment"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "retry": "Retry",
+    "next": "Next",
+    "back": "Back"
+  }
+} 

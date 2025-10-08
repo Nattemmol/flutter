@@ -1,0 +1,121 @@
+{
+  "app": {
+    "name": "NileCare",
+    "tagline": "Your Health, Our Priority"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "signIn": "Sign In",
+    "role": {
+      "select": "Select Role",
+      "patient": "Patient",
+      "doctor": "Doctor"
+    }
+  },
+  "home": {
+    "welcome": "Welcome",
+    "findDoctor": "Find a Doctor",
+    "appointments": "Appointments",
+    "consultations": "Consultations",
+    "messages": "Messages",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "doctor": {
+    "specialization": "Specialization",
+    "experience": "Experience",
+    "rating": "Rating",
+    "availability": "Availability",
+    "consultationFee": "Consultation Fee",
+    "bookAppointment": "Book Appointment",
+    "viewProfile": "View Profile",
+    "about": "About",
+    "reviews": "Reviews",
+    "schedule": "Schedule"
+  },
+  "appointment": {
+    "book": "Book Appointment",
+    "date": "Date",
+    "time": "Time",
+    "type": {
+      "select": "Select Type",
+      "video": "Video Call",
+      "audio": "Audio Call",
+      "chat": "Chat",
+      "inPerson": "In-Person"
+    },
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled",
+      "completed": "Completed"
+    },
+    "payment": {
+      "title": "Payment",
+      "amount": "Amount",
+      "method": "Payment Method",
+      "pay": "Pay Now",
+      "success": "Payment Successful",
+      "failed": "Payment Failed"
+    }
+  },
+  "chat": {
+    "startChat": "Start Chat",
+    "typeMessage": "Type a message...",
+    "send": "Send",
+    "attachFile": "Attach File"
+  },
+  "profile": {
+    "edit": "Edit Profile",
+    "personalInfo": "Personal Information",
+    "medicalHistory": "Medical History",
+    "prescriptions": "Prescriptions",
+    "reports": "Reports",
+    "save": "Save Changes"
+  },
+  "settings": {
+    "language": "Language",
+    "notifications": "Notifications",
+    "darkMode": "Dark Mode",
+    "privacy": "Privacy",
+    "help": "Help & Support",
+    "about": "About Us",
+    "logout": "Logout"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "done": "Done"
+  },
+  "errors": {
+    "general": "Something went wrong",
+    "network": "Network error",
+    "unauthorized": "Unauthorized access",
+    "validation": {
+      "required": "This field is required",
+      "email": "Invalid email address",
+      "password": "Password must be at least 8 characters",
+      "passwordMatch": "Passwords do not match"
+    }
+  }
+} 
